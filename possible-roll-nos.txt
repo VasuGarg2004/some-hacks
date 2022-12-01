@@ -1,0 +1,27 @@
+21  AE
+    AG
+    AR
+    BT
+    CH
+    CE
+    CS
+    CY
+    EC
+    EE
+    EX
+    GG
+    HS
+    IE
+    IM
+    MA
+    MF
+    MI
+    MT
+    NA
+    PH
+        10
+        20
+        30
+            001-200
+
+12600 possibilities
